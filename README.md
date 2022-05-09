@@ -59,4 +59,5 @@ The app has four tabs which display data on different topics:
 ## References
 
 All data was sourced from the Scottish Health and Social Care Open Data platform, which is managed by Public Health Scotland.
-https://www.opendata.nhs.scot/
+
+- https://www.opendata.nhs.scot/
