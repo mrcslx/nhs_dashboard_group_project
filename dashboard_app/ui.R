@@ -1,6 +1,6 @@
 
 ui <- dashboardPage(skin = "purple",
-                    dashboardHeader(title = "Epic dashboard"),
+                    dashboardHeader(title = "PHS Dashboard"),
 
                     # Sidebar content
                     dashboardSidebar(
