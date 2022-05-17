@@ -5,6 +5,8 @@
 
 This repository contains an RShiny dashboard application and additional files for testing and exploring the data used. The dashboard allows users to explore data through four tabs which include an array of interactive visualisations. The aim of the project was to assist Public Health Scotland in determining whether or not there has been a winter crisis in NHS Scotland within the acute care sector over the last four years.
 
+[Launch Dashboard](https://mrcslx.shinyapps.io/dashboard_app/)
+
 ## Team Members
 
 Our team was made up of four members:
