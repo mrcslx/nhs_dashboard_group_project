@@ -7,6 +7,8 @@ This repository contains an RShiny dashboard application and additional files fo
 
 [Launch Dashboard](https://mrcslx.shinyapps.io/dashboard_app/)
 
+[View Presentation Slides](https://mrcslx.github.io/phs_dashboard_slides.pdf)
+
 ## Team Members
 
 Our team was made up of four members:
